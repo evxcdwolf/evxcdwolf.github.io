@@ -1,0 +1,6 @@
+{
+  "name": "Foxgirl Personal Homepage",
+  "description": "A stylish monochrome personal bio card and homepage with customizable foxgirl stickers, background textures, interactive widgets, contacts, and GitLab Pages export tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
