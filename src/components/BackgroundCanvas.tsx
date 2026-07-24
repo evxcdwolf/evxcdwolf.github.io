@@ -74,7 +74,7 @@ export const BackgroundCanvas: React.FC<BackgroundCanvasProps> = ({ bgConfig }) 
         <div className="absolute inset-0">
           <img
             src={bgConfig.activeBgUrl}
-            alt="Background Wallpaper"
+            alt=""
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover transition-all duration-700 filter contrast-[1.08] saturate-[0.9]"
             style={{
