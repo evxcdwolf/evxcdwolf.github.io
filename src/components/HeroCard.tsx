@@ -320,7 +320,7 @@ export const HeroCard: React.FC<HeroCardProps> = ({
                   >
                     <div className="pt-2 space-y-3 font-sans text-sm sm:text-base text-zinc-300 leading-relaxed">
                       <p>
-                        My name is Woofy. I'm 23+ years old, a free person with a free life. I don't have a career, I just enjoy life xd. I love collecting arts with foxgirls and sometimes wolfgirls on my computer. I already have 50 GB of images on my disk xd. I love artists like Nagishiro Mito, Haku Yukishiro, and Haku Yukishiro. And I love white haired foxgirls with blue eyes. &lt;3
+                        My name is Woofy. I'm 23+ years old, a free person with a free life. I don't have a career, I just enjoy life xd. I love collecting arts with foxgirls and sometimes wolfgirls on my computer. I already have 50 GB of images on my disk xd. I love artists like Nagishiro Mito, Haku Yukishiro, and Milfaaaaa. And I love white haired foxgirls with blue eyes. &lt;3
                       </p>
                       <div className="pt-1 space-y-2">
                         <p className="font-semibold text-zinc-200">
