@@ -110,16 +110,6 @@ export const DEFAULT_CONTACTS: ContactLink[] = [
     copyable: false,
   },
   {
-    id: 'discord',
-    platform: 'discord',
-    title: 'Discord',
-    value: '@evxcdwolf',
-    url: 'https://discord.com',
-    description: 'Discord Handle',
-    isPrimary: true,
-    copyable: true,
-  },
-  {
     id: 'email',
     platform: 'email',
     title: 'Proton Mail',
