@@ -41,14 +41,10 @@ export const ContactsGrid: React.FC<ContactsGridProps> = ({ contacts }) => {
         );
       case 'telegram':
         return <Send className="w-5 h-5 text-sky-400" />;
-      case 'discord':
-        return <MessageSquare className="w-5 h-5 text-indigo-400" />;
       case 'email':
         return <Mail className="w-5 h-5 text-purple-400" />;
       case 'steam':
         return <Gamepad2 className="w-5 h-5 text-blue-400" />;
-      case 'spotify':
-        return <Music className="w-5 h-5 text-emerald-400" />;
       default:
         return <Globe className="w-5 h-5 text-zinc-400" />;
     }

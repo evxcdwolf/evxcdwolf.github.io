@@ -52,7 +52,7 @@ export interface LifeIndexData {
 
 export interface ContactLink {
   id: string;
-  platform: 'gitlab' | 'github' | 'telegram' | 'discord' | 'email' | 'spotify' | 'steam' | 'twitter' | 'custom';
+  platform: 'gitlab' | 'github' | 'telegram' | 'email' | 'steam' | 'twitter' | 'custom';
   title: string;
   value: string;
   url: string;
